@@ -1,3 +1,5 @@
+![CI](https://github.com/kadirou12333/cryptanalysis-toolkit/actions/workflows/ci.yml/badge.svg)
+
 # Cryptanalysis Toolkit
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
