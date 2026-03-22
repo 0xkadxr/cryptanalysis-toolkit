@@ -1,4 +1,4 @@
-![CI](https://github.com/kadirou12333/cryptanalysis-toolkit/actions/workflows/ci.yml/badge.svg)
+![CI](https://github.com/kadirou12333/cryptanalysis-toolkit/actions/workflows/ci.yml/badge.svg?branch=master)
 
 # Cryptanalysis Toolkit
 
